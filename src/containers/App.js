@@ -18,7 +18,7 @@ const App = (props) => {
         <div>
           <NavBar />
           <Switch>
-          <Route path="/">
+            <Route path="/">
               <Home />
             </Route>
             <Route path="/movies">
